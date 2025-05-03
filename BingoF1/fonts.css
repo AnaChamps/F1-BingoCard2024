@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
+@font-face {
+  font-family: f1Font;
+  src: url(Font/formula1font.ttf);
+}
+@font-face {
+  font-family: landoFont;
+  src: url(Font/LandoFont/LandoFont.otf);
+}
+@font-face {
+  font-family: i2font;
+  src: url(font/i2font.ttf);
+}
+@font-face {
+  font-family: n4font;
+  src: url(font/n4font.ttf);
+}
+@font-face {
+  font-family: b1font;
+  src: url(font/b1font.ttf);
+}
+@font-face {
+  font-family: i1font;
+  src: url(font/i1font.ttf);
+}
+@font-face {
+  font-family: n1font;
+  src: url(font/n1font.otf);
+}
+@font-face {
+  font-family: mclarenfont;
+  src: url(font/mclarenfont.otf);
+}
+@font-face {
+  font-family: o1font;
+  src: url(font/o1font.otf);
+}
+@font-face {
+  font-family: nhlfont;
+  src: url(font/nhlfont.ttf);
+}
+@font-face {
+  font-family: n2font;
+  src: url(font/n2font.otf);
+}
+@font-face {
+  font-family: g2font1;
+  src: url(font/g2font1.ttf);
+}
+@font-face {
+  font-family: g2font2;
+  src: url(font/g2font2.ttf);
+}
+@font-face {
+  font-family: ferrarifont;
+  src: url(font/ferrarifont.ttf);
+}
+@font-face {
+  font-family: b3font;
+  src: url(font/b3font.otf);
+}
+@font-face {
+  font-family: i3font;
+  src: url(font/i3font.ttf);
+}
+@font-face {
+  font-family: n3font;
+  src: url(font/n3font.otf);
+}
+@font-face {
+  font-family: o3font;
+  src: url(font/o3font.otf);
+}
+@font-face {
+  font-family: i4font;
+  src: url(font/i4font.ttf);
+}
+@font-face {
+  font-family: o4font;
+  src: url(font/o4font.ttf);
+}
+@font-face {
+  font-family: i5font1;
+  src: url(font/i5font1.otf);
+}
+@font-face {
+  font-family: i5font2;
+  src: url(font/i5font2.otf);
+}
+@font-face {
+  font-family: b5fonttest;
+  src: url(font/b5font-test.otf);
+}
+@font-face {
+  font-family: g5font1;
+  src: url(font/g5font1.ttf);
+}
+@font-face {
+  font-family: o5font;
+  src: url(font/o5font.otf);
+}
