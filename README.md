@@ -10,7 +10,8 @@ Three different folders for CSS, one for font, one for the tiles, and one for th
 # Known issues and futur improvements
 **known issues:** placement of the middle of the page icon when zooming in and out.
 
-**futur improvements:** - responsivness. Didn't practice or implement any responsiveness for this project.
+**futur improvements:** 
+- responsivness. Didn't practice or implement any responsiveness for this project.
 - New file for JS and JQuery
 - Sounds?
 - More use of JQuery as I know more about it now
