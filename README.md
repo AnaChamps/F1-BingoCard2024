@@ -1,7 +1,6 @@
 # F1-BingoCard2024
 F1 2024 season Bingo card - for fun and practice with front-end programming and design, mostly with HTML. It's my first project after learning basic front end technologies. Was made very quickly since the season was starting.
 
-Link:http://127.0.0.1:3000/F1Bingo.html
 
 # How it's made
 **Tech used:** HTML, CSS, JavaScript, JQuery
